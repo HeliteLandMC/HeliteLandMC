@@ -17,20 +17,15 @@
 /*Contenido*/
 
 .content {
-    margin-top: 9em;
+    margin-top: 5%;
     text-align: center;
-    border: 1px solid ;
-    padding: 1rem;
+    border: 5px solid ;
+    padding: 2rem;
     border-color: #010101;
-    font-size: 1.2em;
+    font-size: 1.1em;
     border-radius: 1em;
-    color: beige;
-    background: #222222;
-}
-
-.btn {
-    margin-top: 5em;
-    margin-left: 44%;
+    color: white;
+    background: #1f1c1c;
 }
 
 /*LOGO*/
