@@ -16,20 +16,21 @@
 
 /*Contenido*/
 
-.contenido {
-    width: 90%;
-    margin: auto;
+.container {
     margin-top: 9em;
     text-align: center;
     border: 1px solid ;
     padding: 1rem;
     border-color: #010101;
-    box-sizing: content-box;
     font-size: 1.2em;
     border-radius: 1em;
     color: beige;
     background: #222222;
+}
 
+.btn {
+    margin-top: 5em;
+    margin-left: 44%;
 }
 
 /*LOGO*/
@@ -39,9 +40,4 @@
     height: 30px;
     border-radius: .3em;
     margin-right: .3em;
-}
-
-.btn {
-    margin-top: 5em;
-    margin-left: 44%;
 }
