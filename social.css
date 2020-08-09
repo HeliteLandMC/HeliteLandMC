@@ -26,11 +26,6 @@
 }
 
 @media (max-width: 414px) {
-    .contenido {
-        width: 74%;
-        margin: auto;
-        height: auto;
-    }
     .banner {
         text-align: center;  
         width: 100%;
@@ -38,8 +33,7 @@
         margin-bottom: 8%;
     }
 
-    .btn {
-        margin-top: 5em;
-        margin-left: 24%;
+    .content {
+        font-size: 1em;
     }
 }
