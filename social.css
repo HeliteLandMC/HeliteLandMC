@@ -1,0 +1,40 @@
+/* Redes sociales */
+
+.social {
+    margin: auto;
+    text-align: center;
+    margin-top: 13%;
+}
+
+.social h3 {
+    text-align: center;
+}
+
+.links a {
+    margin: 1.5em;
+}
+
+.fa-twitter {
+    color: #00acee;
+}
+.fa-youtube {
+    color: #c4302b;
+}
+
+#social-icon {
+    font-size: 2em;
+}
+
+@media (max-width: 414px) {
+    .contenido {
+        width: 74%;
+        margin: auto;
+        height: auto;
+    }
+    .banner {
+        text-align: center;  
+        width: 100%;
+        margin-top: 10%;
+        margin-bottom: 8%;
+    }
+}
