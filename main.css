@@ -8,6 +8,7 @@
 .banner {
     text-align: center;  
     width: 100%;
+    margin-bottom: 6em;
 }
 
 .nav-item {
@@ -17,7 +18,6 @@
 /*Contenido*/
 
 .content {
-    margin-top: 5%;
     text-align: center;
     border: 5px solid ;
     padding: 2rem;
@@ -25,7 +25,8 @@
     font-size: 1.1em;
     border-radius: 1em;
     color: white;
-    background: #1f1c1c;
+    background: #292841;
+    margin-bottom: 2em;
 }
 
 /*LOGO*/
